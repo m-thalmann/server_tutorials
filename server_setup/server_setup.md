@@ -130,10 +130,10 @@ sudo bash /tmp/script.deb.sh
 
 sudo apt install gitlab-ce
 
-# change config (https://github.com/m-thalmann/server_tutorials/blob/master/gitlab.rb)
+# change config (gitlab.rb)
 sudo nano /etc/gitlab/gitlab.rb
 
-# add virtualhost (https://github.com/m-thalmann/server_tutorials/blob/master/gitlab_virtual_host.conf)
+# add virtualhost (gitlab_virtual_host.conf)
 
 # enable mods
 sudo a2enmod proxy
