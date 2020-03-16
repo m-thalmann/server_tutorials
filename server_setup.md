@@ -1,4 +1,5 @@
 # Server Installation
+This is the installation guide to my Ubuntu 18.04 server
 
 ## 1. Basic setup
 **Links:**
