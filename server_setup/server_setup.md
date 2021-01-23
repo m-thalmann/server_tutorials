@@ -30,7 +30,7 @@ service sshd restart
 
 ### 1.3 Update UFW
 ```shell
-ufw allow 65342
+ufw allow <port>
 ufw enable
 ```
 
