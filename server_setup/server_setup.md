@@ -160,8 +160,8 @@ sudo -u www-data php occ files:scan --all
 
 **Config:**
 ```
-IMAP: STARTTLS/143
-SMTP: STARTTLS/587
+IMAP: SSL/TLS -> 993
+SMTP: SSL/TLS -> 465
 ```
 
 # Tutorials
